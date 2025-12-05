@@ -1,0 +1,5 @@
+{
+  "name": "Aura - AI Personality Insights",
+  "description": "A modern, aesthetic personality quiz that uses Gemini AI to analyze your answers and generate a unique, deep personality profile.",
+  "requestFramePermissions": []
+}
